@@ -1,0 +1,5 @@
+calcul
+calcul.exe
+main.exe
+*.o
+.vscode/
